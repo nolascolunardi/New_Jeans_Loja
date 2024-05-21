@@ -1,8 +1,12 @@
 # New Jeans - Loja E-commerce
-Projeto desenvolvido no VsCode utilizando as linguagens PHP.
 
-A aplicação simula uma loja online com um cadastro/login de usuário, compra e visualização de produtos. É feita uma integração com o banco de dados MySQL para o armazenamento tanto de usuários quanto de produtos no carrinho de compras.
+A aplicação simula um e-commerce de roupas chamado New Jeans. Suas funcionalidades são: cadastro, login e logout de usuário, visualização e compra de produtos, carrinho de compras. No carrinho de comprs é possivel realizar as seguintes funções: inserir visualizar, alterar e remover produtos, além de finalizar compra. É feita uma integração com o banco de dados MySQL para o armazenamento de dados dos usuários e produtos no carrinho de compras. 
 
-Além do cadastro e login de usuários também é possível realizar as seguintes operações: inserção, visualização, alteração e remoção de produtos no carrinho de compras. Também é possível efetuar o logout e a finalização das compras.
+IDE utilizada: VsCode;
+Linguagens utilizadas: HTML, CSS, PHP, SQL;
+Banco de Dados: MySQL;
 
 
+Authors:
+@Ana Laura Lunardi 
+@Leonardo Vinicius
