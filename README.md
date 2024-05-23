@@ -11,5 +11,5 @@ Banco de Dados: MySQL;
 
 
 Authors:
-@Ana Laura Lunardi 
+@Ana Laura Nolasco Lunardi 
 @Leonardo Vinicius
