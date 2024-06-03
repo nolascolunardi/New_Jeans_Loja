@@ -11,10 +11,10 @@
 - **Visualização de Produtos:** Exibe uma lista de produtos disponíveis para compra.
 - **Compra de Produtos:** Permite que usuários adicionem produtos ao carrinho de compras.
 - **Carrinho de Compras:**
-  - **Visualizar Produtos:** Exibe todos os produtos presentes no carrinho.
+  - **Visualizar Produtos:** Exibe todos os produtos que foram adicionados no carrinho.
   - **Alterar Produtos:** Permite modificar a quantidade de produtos no carrinho.
   - **Remover Produtos:** Remove produtos do carrinho.
-  - **Finalizar Compra:** Processa a compra dos produtos presentes no carrinho, apenas para clientes logados no site.
+  - **Finalizar Compra:** Finaliza a compra dos produtos do carrinho apenas para clientes logados no site.
 
 ## 💻 Tecnologias Utilizadas
 
